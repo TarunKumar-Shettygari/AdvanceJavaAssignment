@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<!DOCTYPE CSR_Report SYSTEM 'http://www.nipr.com/html/CSR_XML_Report.dtd'>
+<CSR_Report>
+    <CSR_Report_Header Report_Type="Company Specialized Report" Title="CSR_Jones_0_1" TimeStamp_Created="06/05/2017"/>
+    <CSR_Report_Body>
+        <CSR_Producer NIPR_Number="41585823" Entity_Id="4585823" Secondary_ID="547674348, 02/16/1960">
+            <License Date_Status_Effective="10/01/2001" License_Class="RES PRODUCER/PRODUCER FIRM" License_Class_Code="1011" License_Expiration_Date="02/01/2019" License_Issue_Date="10/01/2001" License_Number="73146" License_Status="Y" Resident_Indicator="Y" State_Code="NV" State_ID="68723">
+            </License>
+            <License Date_Status_Effective="05/01/2014" License_Class="Res Motor Club Agt/Agy" License_Class_Code="507" License_Expiration_Date="05/01/2014" License_Issue_Date="04/22/2002" License_Number="85590" License_Status="N" Resident_Indicator="Y" State_Code="NV" State_ID="68723">
+            </License>
+        </CSR_Producer>
+    </CSR_Report_Body>
+	<CSR_Report_Header Report_Type="Company Report" Title="CSR_James_0_1" TimeStamp_Created="06/05/2014"/>
+    <CSR_Report_Body>
+        <CSR_Producer NIPR_Number="41585823" Entity_Id="4585823" Secondary_ID="547674348, 02/16/1960">
+            <License Date_Status_Effective="11/01/2001" License_Class="GEP PRODUCER/PRODUCER FIRM" License_Class_Code="1561" License_Expiration_Date="02/01/2017" License_Issue_Date="10/11/2001" License_Number="45146" License_Status="Y" Resident_Indicator="Y" State_Code="NV" State_ID="68723">
+            </License>
+            <License Date_Status_Effective="05/12/2014" License_Class="Gep Motor Club Agt/Agy" License_Class_Code="557" License_Expiration_Date="05/03/2014" License_Issue_Date="04/12/2002" License_Number="65690" License_Status="N" Resident_Indicator="Y" State_Code="NV" State_ID="68723">
+            </License>
+        </CSR_Producer>
+    </CSR_Report_Body>
+</CSR_Report>
